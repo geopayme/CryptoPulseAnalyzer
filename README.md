@@ -12,6 +12,11 @@ The "CryptoPulse: Fear and Greed Indicator" is a custom financial market analysi
 
 ![](https://github.com/geopayme/CryptoPulseAnalyzer/blob/main/Indicators/images/Screenshot%202024-01-25%20at%205.09.30%20AM.png)
 
+# CryptoPulse: Custom Oscillator Value
+
+[Details](https://)
+
+![](https://github.com/geopayme/CryptoPulseAnalyzer/blob/main/Indicators/images/Screenshot%202024-01-25%20at%207.13.42%20PM.png)
 # License
 Copyright (c) 2009-2024, Antonios Valamontes (AGPL-3.0 license)
 

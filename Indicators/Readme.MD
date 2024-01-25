@@ -1,4 +1,4 @@
-''' The Fear and Greed Score in the "CryptoPulse Fear and Greed Indicator" is a metric designed to gauge the overall sentiment of the Bitcoin market. It combines several technical analysis components to assess whether the market is in a state of fear or greed. Here's a breakdown of how the score is calculated and what it represents:
+The Fear and Greed Score in the "CryptoPulse Fear and Greed Indicator" is a metric designed to gauge the overall sentiment of the Bitcoin market. It combines several technical analysis components to assess whether the market is in a state of fear or greed. Here's a breakdown of how the score is calculated and what it represents:
 
 1. **Components of the Score:**
    - **Rate of Change (ROC):** Measures the speed at which prices are changing. A high ROC can indicate strong momentum.

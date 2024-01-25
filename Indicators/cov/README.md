@@ -1,5 +1,7 @@
 # Custom Oscillator Value (COV)
 
+![](https://github.com/geopayme/CryptoPulseAnalyzer/blob/main/Indicators/images/Screenshot%202024-01-25%20at%207.13.42%20PM.png)
+
 The "Custom Oscillator Value" in the context of the "CryptoPulse: Fear and Greed Indicator" is a unique component of the indicator, specifically designed to assess and interpret market dynamics in cryptocurrency trading. This value is not a standard technical analysis tool but a custom creation for this particular indicator. Here’s an explanation of its components and functionality:
 
 1. **Purpose**: The Custom Oscillator Value is intended to provide traders with a deeper insight into market momentum and sentiment. By combining various market indicators into a single oscillator value, it simplifies the interpretation of complex market data.

@@ -10,4 +10,6 @@ The "CryptoPulse: Fear and Greed Indicator" is a custom financial market analysi
 
 [Details](https://github.com/geopayme/CryptoPulseAnalyzer/tree/main/Indicators/fear-n-greed-indicator)
 
+![](https://github.com/geopayme/CryptoPulseAnalyzer/blob/main/Indicators/images/Screenshot%202024-01-25%20at%205.09.30%20AM.png)
+
 

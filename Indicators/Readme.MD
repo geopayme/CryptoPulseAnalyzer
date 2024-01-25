@@ -1,6 +1,6 @@
 ## The Fear and Greed Score Indicator
 
-
+![](https://github.com/geopayme/CryptoPulseAnalyzer/blob/main/Indicators/images/Screenshot%202024-01-25%20at%205.09.30%20AM.png)
 
 The Fear and Greed Score in the "CryptoPulse Fear and Greed Indicator" is a metric designed to gauge the overall sentiment of the Bitcoin market. It combines several technical analysis components to assess whether the market is in a state of fear or greed. Here's a breakdown of how the score is calculated and what it represents:
 

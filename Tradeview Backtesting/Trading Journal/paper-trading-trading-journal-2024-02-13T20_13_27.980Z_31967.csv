@@ -1,0 +1,13 @@
+Time,Text
+2024-02-13 22:08:31,Order 1173565833 for symbol OANDA:BTCUSD has been executed at price 49197.4 for 7000 shares
+2024-02-13 22:06:25,Order 1173565833 activated
+2024-02-13 22:06:25,Order 1173565832 for symbol OANDA:BTCUSD has been executed at price 49192.6 for 7000 shares
+2024-02-13 22:06:25,Order 1173565833 successfully placed
+2024-02-13 22:06:25,Order 1173565832 successfully placed
+2024-02-13 22:06:25,Call to place market order to buy 7000 shares of symbol OANDA:BTCUSD with TP 49194.90
+2024-02-13 22:04:22,Order 1173562416 for symbol BITSTAMP:BTCUSD has been executed at price 49127 for 7000 shares
+2024-02-13 22:04:08,Order 1173562416 activated
+2024-02-13 22:04:08,Order 1173562415 for symbol BITSTAMP:BTCUSD has been executed at price 49120 for 7000 shares
+2024-02-13 22:04:08,Order 1173562416 successfully placed
+2024-02-13 22:04:08,Order 1173562415 successfully placed
+2024-02-13 22:04:08,Call to place market order to buy 7000 shares of symbol BITSTAMP:BTCUSD with TP 49126.00

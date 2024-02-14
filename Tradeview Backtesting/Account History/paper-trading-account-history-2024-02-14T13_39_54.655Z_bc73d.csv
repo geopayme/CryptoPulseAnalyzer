@@ -1,0 +1,22 @@
+Time,Balance Before,Balance After,P&L,Action
+2024-02-14 15:35:28,1352456.9162448,1352095.0092448,-361.9069999998901,"Commission for: Close short position for symbol BITSTAMP:BTCUSD at price 51701 for 7000 shares. Position AVG Price was 51708.000000, currency: USD, point value: 1.000000"
+2024-02-14 15:35:28,1303456.9162448,1352456.9162448,49000,"Close short position for symbol BITSTAMP:BTCUSD at price 51701 for 7000 shares. Position AVG Price was 51708.000000, currency: USD, point value: 1.000000"
+2024-02-14 15:35:13,1303818.8722448,1303456.9162448,-361.9560000000056,Commission for: Enter position for symbol BITSTAMP:BTCUSD at price 51708 for 7000 shares
+2024-02-14 15:15:35,1303818.8758156,1303818.8722448,-0.0035707999486476183,"Commission for: Close short position for symbol OANDA:EURUSD at price 1.07134 for 3333 shares. Position AVG Price was 1.069700, currency: USD, point value: 1.000000"
+2024-02-14 15:15:35,1303824.3419356,1303818.8758156,-5.466119999997318,"Close short position for symbol OANDA:EURUSD at price 1.07134 for 3333 shares. Position AVG Price was 1.069700, currency: USD, point value: 1.000000"
+2024-02-14 12:16:47,1303824.3455009,1303824.3419356,-0.0035653000231832266,Commission for: Enter position for symbol OANDA:EURUSD at price 1.06970 for 3333 shares
+2024-02-14 10:00:06,1304173.4985009343,1303824.3455009344,-349.15299999993294,"Commission for: Close long position for symbol BITSTAMP:BTCUSD at price 49879 for 7000 shares. Position AVG Price was 49864.000000, currency: USD, point value: 1.000000"
+2024-02-14 10:00:06,1199173.4985009343,1304173.4985009343,105000,"Close long position for symbol BITSTAMP:BTCUSD at price 49879 for 7000 shares. Position AVG Price was 49864.000000, currency: USD, point value: 1.000000"
+2024-02-14 09:59:00,1199522.5465009343,1199173.4985009343,-349.04799999995157,Commission for: Enter position for symbol BITSTAMP:BTCUSD at price 49864 for 7000 shares
+2024-02-14 09:50:27,1199522.5500720104,1199522.5465009343,-0.0035710760857909918,"Commission for: Close short position for symbol OANDA:EURUSD at price 1.07143 for 3333 shares. Position AVG Price was 1.070510, currency: USD, point value: 1.000000"
+2024-02-14 09:50:27,1199525.6164320104,1199522.5500720104,-3.0663600000552833,"Close short position for symbol OANDA:EURUSD at price 1.07143 for 3333 shares. Position AVG Price was 1.070510, currency: USD, point value: 1.000000"
+2024-02-14 09:34:44,1199525.6200000204,1199525.6164320104,-0.003568009939044714,Commission for: Enter position for symbol OANDA:EURUSD at price 1.07051 for 3333 shares
+2024-02-14 09:33:33,1199874.6400000204,1199525.6200000204,-349.0200000000186,"Commission for: Close long position for symbol BITSTAMP:BTCUSD at price 49860 for 7000 shares. Position AVG Price was 49843.000000, currency: USD, point value: 1.000000"
+2024-02-14 09:33:33,1080874.6400000204,1199874.6400000204,119000,"Close long position for symbol BITSTAMP:BTCUSD at price 49860 for 7000 shares. Position AVG Price was 49843.000000, currency: USD, point value: 1.000000"
+2024-02-14 09:33:01,1081223.5410000205,1080874.6400000204,-348.9010000000708,Commission for: Enter position for symbol BITSTAMP:BTCUSD at price 49843 for 7000 shares
+2024-02-13 22:08:31,1081567.9228000205,1081223.5410000205,-344.38180000009015,"Commission for: Close long position for symbol OANDA:BTCUSD at price 49197.4 for 7000 shares. Position AVG Price was 49192.600000, currency: USD, point value: 1.000000"
+2024-02-13 22:08:31,1047967.9228000002,1081567.9228000205,33600.00000002037,"Close long position for symbol OANDA:BTCUSD at price 49197.4 for 7000 shares. Position AVG Price was 49192.600000, currency: USD, point value: 1.000000"
+2024-02-13 22:06:25,1048312.2710000002,1047967.9228000002,-344.34820000000764,Commission for: Enter position for symbol OANDA:BTCUSD at price 49192.6 for 7000 shares
+2024-02-13 22:04:22,1048656.1600000001,1048312.2710000002,-343.8889999999665,"Commission for: Close long position for symbol BITSTAMP:BTCUSD at price 49127 for 7000 shares. Position AVG Price was 49120.000000, currency: USD, point value: 1.000000"
+2024-02-13 22:04:22,999656.16,1048656.1600000001,49000.00000000012,"Close long position for symbol BITSTAMP:BTCUSD at price 49127 for 7000 shares. Position AVG Price was 49120.000000, currency: USD, point value: 1.000000"
+2024-02-13 22:04:08,1000000,999656.16,-343.8399999999674,Commission for: Enter position for symbol BITSTAMP:BTCUSD at price 49120 for 7000 shares

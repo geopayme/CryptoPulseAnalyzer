@@ -1,0 +1,51 @@
+Time,Text
+2024-03-05 01:23:44,Order 1206065799 activated
+2024-03-05 01:23:44,Order 1206065798 for symbol BYBIT:KASUSDT has been executed at price 0.16159 for 500000 shares
+2024-03-05 01:23:44,Order 1206065799 successfully placed
+2024-03-05 01:23:44,Order 1206065798 successfully placed
+2024-03-05 01:23:44,Call to place market order to sell 500000 shares of symbol BYBIT:KASUSDT with TP 0.16084
+2024-03-05 01:18:35,Order 1206061214 activated
+2024-03-05 01:18:35,Order 1206061213 for symbol BYBIT:BTCUSDT has been executed at price 68384.45 for 99.9996 shares
+2024-03-05 01:18:35,Order 1206061214 successfully placed
+2024-03-05 01:18:35,Order 1206061213 successfully placed
+2024-03-05 01:18:35,Call to place market order to buy 99.9996 shares of symbol BYBIT:BTCUSDT with TP 68398.00
+2024-03-05 01:18:12,Order 1206060799 for symbol BYBIT:BTCUSDT has been executed at price 68344.23 for 99.9996 shares
+2024-03-05 01:18:09,Order 1206060799 activated
+2024-03-05 01:18:09,Order 1206060798 for symbol BYBIT:BTCUSDT has been executed at price 68318.25 for 99.9996 shares
+2024-03-05 01:18:09,Order 1206060799 successfully placed
+2024-03-05 01:18:09,Order 1206060798 successfully placed
+2024-03-05 01:18:09,Call to place market order to buy 99.9996 shares of symbol BYBIT:BTCUSDT with TP 68341.66
+2024-03-05 01:17:48,Order 1206060497 for symbol BYBIT:BTCUSDT has been executed at price 68307.18 for 99.9996 shares
+2024-03-05 01:17:48,Order 1206060497 activated
+2024-03-05 01:17:48,Order 1206060496 for symbol BYBIT:BTCUSDT has been executed at price 68307.19 for 99.9996 shares
+2024-03-05 01:17:48,Order 1206060497 successfully placed
+2024-03-05 01:17:48,Order 1206060496 successfully placed
+2024-03-05 01:17:47,Call to place market order to buy 99.9996 shares of symbol BYBIT:BTCUSDT with TP 68305.01
+2024-03-05 01:17:28,Order 1206060220 for symbol BYBIT:BTCUSDT has been executed at price 68246.35 for 99.9996 shares
+2024-03-05 01:17:27,Order 1206060220 activated
+2024-03-05 01:17:27,Order 1206060219 for symbol BYBIT:BTCUSDT has been executed at price 68246.36 for 99.9996 shares
+2024-03-05 01:17:27,Order 1206060220 successfully placed
+2024-03-05 01:17:27,Order 1206060219 successfully placed
+2024-03-05 01:17:27,Call to place market order to buy 99.9996 shares of symbol BYBIT:BTCUSDT with TP 68241.01
+2024-03-05 01:17:04,Order 1206059887 for symbol BYBIT:BTCUSDT has been executed at price 68267.99 for 99.9996 shares
+2024-03-05 01:17:03,Order 1206059887 activated
+2024-03-05 01:17:03,Order 1206059886 for symbol BYBIT:BTCUSDT has been executed at price 68272.00 for 99.9996 shares
+2024-03-05 01:17:03,Order 1206059887 successfully placed
+2024-03-05 01:17:03,Order 1206059886 successfully placed
+2024-03-05 01:17:03,Call to place market order to buy 99.9996 shares of symbol BYBIT:BTCUSDT with TP 68257.50
+2024-03-05 01:16:21,Order 1206059132 for symbol BITSTAMP:BTCUSD has been executed at price 68447 for 7000 shares
+2024-03-05 01:16:11,Order 1206059132 activated
+2024-03-05 01:16:11,Order 1206059131 for symbol BITSTAMP:BTCUSD has been executed at price 68429 for 7000 shares
+2024-03-05 01:16:11,Order 1206059132 successfully placed
+2024-03-05 01:16:11,Order 1206059131 successfully placed
+2024-03-05 01:16:11,Call to place market order to buy 7000 shares of symbol BITSTAMP:BTCUSD with TP 68442.00
+2024-03-05 01:13:04,Order 1206055650 for symbol BITSTAMP:BTCUSD has been executed at price 68527 for 7000 shares
+2024-03-05 01:12:56,Order 1206055650 activated
+2024-03-05 01:12:56,Order 1206055649 for symbol BITSTAMP:BTCUSD has been executed at price 68506 for 7000 shares
+2024-03-05 01:12:56,Order 1206055650 successfully placed
+2024-03-05 01:12:56,Order 1206055649 successfully placed
+2024-03-05 01:12:56,Call to place market order to buy 7000 shares of symbol BITSTAMP:BTCUSD with TP 68522.00
+2024-03-05 01:12:42,Order 1206055406 for symbol BITSTAMP:BTCUSD has been executed at price 68481 for 7000 shares
+2024-03-05 01:12:39,Order 1206055406 activated
+2024-03-05 01:12:39,Order 1206055405 for symbol BITSTAMP:BTCUSD has been executed at price 68472 for 7000 shares
+2024-03-05 01:12:39,Order 1206055406 successfully placed

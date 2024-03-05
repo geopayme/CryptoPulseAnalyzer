@@ -1,0 +1,51 @@
+Time,Text
+2024-02-16 12:49:25,Order 1178073255 for symbol BYBIT:BTCUSDT has been executed at price 52156.88 for 99.9996 shares
+2024-02-16 12:49:17,Order 1178073255 activated
+2024-02-16 12:49:17,Order 1178073254 for symbol BYBIT:BTCUSDT has been executed at price 52148.00 for 99.9996 shares
+2024-02-16 12:49:17,Order 1178073255 successfully placed
+2024-02-16 12:49:17,Order 1178073254 successfully placed
+2024-02-16 12:49:17,Call to place market order to buy 99.9996 shares of symbol BYBIT:BTCUSDT with TP 52149.50
+2024-02-16 12:48:28,Order 1178072505 for symbol BYBIT:BTCUSDT has been executed at price 52129.99 for 1 shares
+2024-02-16 12:48:28,Order 1178072505 activated
+2024-02-16 12:48:28,Order 1178072504 for symbol BYBIT:BTCUSDT has been executed at price 52130.00 for 1 shares
+2024-02-16 12:48:28,Order 1178072505 successfully placed
+2024-02-16 12:48:28,Order 1178072504 successfully placed
+2024-02-16 12:48:28,Call to place market order to buy 1 shares of symbol BYBIT:BTCUSDT with TP 52120.75
+2024-02-16 12:34:30,Order 1178060268 for symbol BITSTAMP:BTCUSD has been executed at price 52027 for 7000 shares
+2024-02-16 12:34:23,Order 1178060268 activated
+2024-02-16 12:34:23,Order 1178060267 for symbol BITSTAMP:BTCUSD has been executed at price 52021 for 7000 shares
+2024-02-16 12:34:23,Order 1178060268 successfully placed
+2024-02-16 12:34:23,Order 1178060267 successfully placed
+2024-02-16 12:34:23,Call to place market order to buy 7000 shares of symbol BITSTAMP:BTCUSD with TP 52026.00
+2024-02-15 19:15:13,Order 1177010988 for symbol BITSTAMP:BTCUSD has been executed at price 52273 for 7000 shares
+2024-02-15 19:15:04,Order 1177010988 activated
+2024-02-15 19:15:04,Order 1177010987 for symbol BITSTAMP:BTCUSD has been executed at price 52265 for 7000 shares
+2024-02-15 19:15:04,Order 1177010988 successfully placed
+2024-02-15 19:15:04,Order 1177010987 successfully placed
+2024-02-15 19:15:04,Call to place market order to buy 7000 shares of symbol BITSTAMP:BTCUSD with TP 52270.00
+2024-02-15 19:11:42,Order 1177004373 for symbol BITSTAMP:BTCUSD has been executed at price 52273 for 7000 shares
+2024-02-15 19:11:31,Order 1177004373 activated
+2024-02-15 19:11:31,Order 1177004372 for symbol BITSTAMP:BTCUSD has been executed at price 52268 for 7000 shares
+2024-02-15 19:11:31,Order 1177004373 successfully placed
+2024-02-15 19:11:31,Order 1177004372 successfully placed
+2024-02-15 19:11:31,Call to place market order to buy 7000 shares of symbol BITSTAMP:BTCUSD with TP 52273.00
+2024-02-15 14:52:50,Order 1176316220 for symbol OANDA:BTCUSD has been executed at price 52371.0 for 7000 shares
+2024-02-15 14:52:27,Order 1176316220 activated
+2024-02-15 14:52:27,Order 1176316219 for symbol OANDA:BTCUSD has been executed at price 52368.6 for 7000 shares
+2024-02-15 14:52:27,Order 1176316220 successfully placed
+2024-02-15 14:52:27,Order 1176316219 successfully placed
+2024-02-15 14:52:27,Call to place market order to buy 7000 shares of symbol OANDA:BTCUSD with TP 52370.10
+2024-02-15 09:59:39,Order 1175978715 for symbol BITSTAMP:BTCUSD has been executed at price 51839 for 7000 shares
+2024-02-15 09:58:54,Order 1175978715 activated
+2024-02-15 09:58:54,Order 1175978714 for symbol BITSTAMP:BTCUSD has been executed at price 51831 for 7000 shares
+2024-02-15 09:58:54,Order 1175978715 successfully placed
+2024-02-15 09:58:54,Order 1175978714 successfully placed
+2024-02-15 09:58:54,Call to place market order to buy 7000 shares of symbol BITSTAMP:BTCUSD with TP 51830.00
+2024-02-14 16:49:33,Order 1174707406 for symbol BITSTAMP:BTCUSD has been executed at price 51848 for 7000 shares
+2024-02-14 16:44:42,Order 1174707406 activated
+2024-02-14 16:44:42,Order 1174707405 for symbol BITSTAMP:BTCUSD has been executed at price 51841 for 7000 shares
+2024-02-14 16:44:42,Order 1174707406 successfully placed
+2024-02-14 16:44:42,Order 1174707405 successfully placed
+2024-02-14 16:44:42,Call to place market order to buy 7000 shares of symbol BITSTAMP:BTCUSD with TP 51848.00
+2024-02-14 16:12:20,Order 1174610544 for symbol BITSTAMP:BTCUSD has been executed at price 51767 for 7000 shares
+2024-02-14 16:12:04,Order 1174610544 activated

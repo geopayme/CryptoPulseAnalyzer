@@ -1,0 +1,51 @@
+Time,Text
+2024-03-07 03:58:35,Order 1210848856 for symbol BITSTAMP:BTCUSD has been executed at price 66287 for 7000 shares
+2024-03-07 02:59:31,Order 1210848856 activated
+2024-03-07 02:59:31,Order 1210848855 for symbol BITSTAMP:BTCUSD has been executed at price 66274 for 7000 shares
+2024-03-07 02:59:31,Order 1210848856 successfully placed
+2024-03-07 02:59:31,Order 1210848855 successfully placed
+2024-03-07 02:59:31,Call to place market order to buy 7000 shares of symbol BITSTAMP:BTCUSD with TP 66286.00
+2024-03-06 08:50:19,Order 1208911183 for symbol BYBIT:BTCUSDT has been executed at price 65787.39 for 100 shares
+2024-03-06 08:50:16,Order 1208911183 activated
+2024-03-06 08:50:16,Order 1208911182 for symbol BYBIT:BTCUSDT has been executed at price 65770.55 for 100 shares
+2024-03-06 08:50:16,Order 1208911183 successfully placed
+2024-03-06 08:50:16,Order 1208911182 successfully placed
+2024-03-06 08:50:16,Call to place market order to buy 100 shares of symbol BYBIT:BTCUSDT with TP 65787.01
+2024-03-06 07:22:00,Order 1208806942 for symbol BITSTAMP:BTCUSD has been executed at price 65491 for 7000 shares
+2024-03-06 07:21:52,Order 1208806942 activated
+2024-03-06 07:21:52,Order 1208806941 for symbol BITSTAMP:BTCUSD has been executed at price 65458 for 7000 shares
+2024-03-06 07:21:52,Order 1208806942 successfully placed
+2024-03-06 07:21:52,Order 1208806941 successfully placed
+2024-03-06 07:21:51,Call to place market order to buy 7000 shares of symbol BITSTAMP:BTCUSD with TP 65468.00
+2024-03-05 18:49:17,Order 1207715001 for symbol BYBIT:KASUSDT has been executed at price 0.15944 for 100000 shares
+2024-03-05 18:29:34,Order 1207715001 activated
+2024-03-05 18:29:34,Order 1207715000 for symbol BYBIT:KASUSDT has been executed at price 0.16020 for 100000 shares
+2024-03-05 18:29:34,Order 1207715001 successfully placed
+2024-03-05 18:29:34,Order 1207715000 successfully placed
+2024-03-05 18:29:34,Call to place market order to sell 100000 shares of symbol BYBIT:KASUSDT with TP 0.15944
+2024-03-05 13:55:16,Order 1206911796 for symbol BITSTAMP:BTCUSD has been executed at price 66746 for 7000 shares
+2024-03-05 13:54:44,Order 1206911796 activated
+2024-03-05 13:54:44,Order 1206911795 for symbol BITSTAMP:BTCUSD has been executed at price 66737 for 7000 shares
+2024-03-05 13:54:44,Order 1206911796 successfully placed
+2024-03-05 13:54:44,Order 1206911795 successfully placed
+2024-03-05 13:54:44,Call to place market order to buy 7000 shares of symbol BITSTAMP:BTCUSD with TP 66746.00
+2024-03-05 04:40:43,Order 1206210294 for symbol BYBIT:KASUSDT has been executed at price 0.15628 for 500000 shares
+2024-03-05 04:27:53,Order 1206212330 for symbol BITSTAMP:BTCUSD has been executed at price 68431 for 7000 shares
+2024-03-05 04:25:02,Order 1206212330 activated
+2024-03-05 04:25:02,Order 1206212329 for symbol BITSTAMP:BTCUSD has been executed at price 68421 for 7000 shares
+2024-03-05 04:25:02,Order 1206212330 successfully placed
+2024-03-05 04:25:02,Order 1206212329 successfully placed
+2024-03-05 04:25:02,Call to place market order to buy 7000 shares of symbol BITSTAMP:BTCUSD with TP 68424.00
+2024-03-05 04:22:38,Order 1206210294 activated
+2024-03-05 04:22:38,Order 1206210293 for symbol BYBIT:KASUSDT has been executed at price 0.15706 for 500000 shares
+2024-03-05 04:22:38,Order 1206210294 successfully placed
+2024-03-05 04:22:38,Order 1206210293 successfully placed
+2024-03-05 04:22:38,Call to place market order to sell 500000 shares of symbol BYBIT:KASUSDT with TP 0.15631
+2024-03-05 03:03:38,Order 1206120346 for symbol BYBIT:KASUSDT has been executed at price 0.15852 for 500000 shares
+2024-03-05 02:32:15,Order 1206120346 activated
+2024-03-05 02:32:15,Order 1206120345 for symbol BYBIT:KASUSDT has been executed at price 0.15931 for 500000 shares
+2024-03-05 02:32:15,Order 1206120346 successfully placed
+2024-03-05 02:32:15,Order 1206120345 successfully placed
+2024-03-05 02:32:15,Call to place market order to sell 500000 shares of symbol BYBIT:KASUSDT with TP 0.15856
+2024-03-05 02:20:55,Order 1206061214 for symbol BYBIT:BTCUSDT has been executed at price 68401.30 for 99.9996 shares
+2024-03-05 02:16:57,Order 1206082292 for symbol BYBIT:KASUSDT has been executed at price 0.16055 for 500000 shares

@@ -1,0 +1,51 @@
+Time,Text
+2024-04-06 06:56:02,Order 1261422043 rejected; reason: out_of_session
+2024-04-06 06:56:02,Order 1261422042 rejected; reason: out_of_session
+2024-04-06 06:56:02,Order 1261422041 rejected; reason: out_of_session
+2024-04-06 06:56:02,Call to place market order to sell 1000 shares of symbol FX_IDC:USDEUR with SL 0.925 and TP 0.915
+2024-04-06 06:50:11,Order 1261419443 rejected; reason: out_of_session
+2024-04-06 06:50:11,Order 1261419442 rejected; reason: out_of_session
+2024-04-06 06:50:11,Call to place market order to buy 3333 shares of symbol OANDA:EURUSD with TP 2.08395
+2024-04-06 05:19:26,Order 1261375240 for symbol BITSTAMP:BTCUSD has been executed at price 67687 for 7000 shares
+2024-04-06 04:57:44,Order 1261375240 activated
+2024-04-06 04:57:44,Order 1261375239 for symbol BITSTAMP:BTCUSD has been executed at price 67703 for 7000 shares
+2024-04-06 04:57:44,Order 1261375240 successfully placed
+2024-04-06 04:57:44,Order 1261375239 successfully placed
+2024-04-06 04:57:44,Call to place market order to sell 7000 shares of symbol BITSTAMP:BTCUSD with TP 67687.00
+2024-04-06 04:55:23,Order 1261373806 for symbol BITSTAMP:BTCUSD has been executed at price 67720 for 7000 shares
+2024-04-06 04:54:11,Order 1261373806 activated
+2024-04-06 04:54:11,Order 1261373805 for symbol BITSTAMP:BTCUSD has been executed at price 67763 for 7000 shares
+2024-04-06 04:54:11,Order 1261373806 successfully placed
+2024-04-06 04:54:11,Order 1261373805 successfully placed
+2024-04-06 04:54:11,Call to place market order to sell 7000 shares of symbol BITSTAMP:BTCUSD with TP 67743.00
+2024-04-06 04:54:09,Order 1261373777 for symbol BITSTAMP:BTCUSD has been executed at price 67764 for 7000 shares
+2024-04-06 04:54:05,Order 1261373777 activated
+2024-04-06 04:54:05,Order 1261373776 for symbol BITSTAMP:BTCUSD has been executed at price 67779 for 7000 shares
+2024-04-06 04:54:05,Order 1261373777 successfully placed
+2024-04-06 04:54:05,Order 1261373776 successfully placed
+2024-04-06 04:54:05,Call to place market order to sell 7000 shares of symbol BITSTAMP:BTCUSD with TP 67764.00
+2024-04-06 03:11:19,Order 1261337682 for symbol BYBIT:BTCUSDT has been executed at price 67734.87 for 100 shares
+2024-04-06 03:11:15,Order 1261337721 for symbol BITSTAMP:BTCUSD has been executed at price 67782 for 7000 shares
+2024-04-06 03:11:06,Order 1261337721 activated
+2024-04-06 03:11:06,Order 1261337720 for symbol BITSTAMP:BTCUSD has been executed at price 67798 for 7000 shares
+2024-04-06 03:11:06,Order 1261337721 successfully placed
+2024-04-06 03:11:06,Order 1261337720 successfully placed
+2024-04-06 03:11:05,Call to place market order to sell 7000 shares of symbol BITSTAMP:BTCUSD with TP 67783.00
+2024-04-06 03:10:55,Order 1261337682 activated
+2024-04-06 03:10:55,Order 1261337681 for symbol BYBIT:BTCUSDT has been executed at price 67763.02 for 100 shares
+2024-04-06 03:10:55,Order 1261337682 successfully placed
+2024-04-06 03:10:55,Order 1261337681 successfully placed
+2024-04-06 03:10:55,Call to place market order to sell 100 shares of symbol BYBIT:BTCUSDT with TP 67737.46
+2024-04-05 09:23:49,Order 1259819492 for symbol BYBIT:BTCUSDT has been executed at price 66854.26 for 100 shares
+2024-04-05 09:23:49,Order 1259816406 successfully cancelled
+2024-04-05 09:23:49,Order 1259819492 successfully placed
+2024-04-05 09:23:49,Call to place market order to buy 100 shares of symbol BYBIT:BTCUSDT 
+2024-04-05 09:21:18,Order 1259816406 activated
+2024-04-05 09:21:18,Order 1259816405 for symbol BYBIT:BTCUSDT has been executed at price 66864.17 for 100 shares
+2024-04-05 09:21:18,Order 1259816406 successfully placed
+2024-04-05 09:21:18,Order 1259816405 successfully placed
+2024-04-05 09:21:18,Call to place market order to sell 100 shares of symbol BYBIT:BTCUSDT with TP 66828.24
+2024-04-05 05:27:20,Order 1259596638 for symbol BYBIT:BTCUSDT has been executed at price 67827.19 for 100 shares
+2024-04-05 05:27:19,Order 1259596638 activated
+2024-04-05 05:27:19,Order 1259596637 for symbol BYBIT:BTCUSDT has been executed at price 67840.53 for 100 shares
+2024-04-05 05:27:19,Order 1259596638 successfully placed

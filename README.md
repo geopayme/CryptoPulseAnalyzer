@@ -1,6 +1,6 @@
 # CryptoPulse: The Tri-Spectrum Analyzer
 
-CryptoPulse: The Tri-Spectrum Analyzer The name reflects the multifaceted nature of our tool, combining Weight Analysis, Custom Oscillator Trend, and [Utility Theorem](https://github.com/geopayme/CryptoPulseAnalyzer/wiki/Making-Choices-in-the-Face-of-Uncertainty:-An-Exploration-of-Expected-Utility-Theory) into a comprehensive package for crypto market analysis.
+CryptoPulse: The Tri-Spectrum Analyzer The name reflects the multifaceted nature of our tool, combining [Weight Analysis](https://github.com/geopayme/CryptoPulseAnalyzer/wiki/Weighted-Moving-Average), Custom Oscillator Trend, and [Utility Theorem](https://github.com/geopayme/CryptoPulseAnalyzer/wiki/Making-Choices-in-the-Face-of-Uncertainty:-An-Exploration-of-Expected-Utility-Theory) into a comprehensive package for crypto market analysis.
 
 Google Sheets Live Link [Crypto Pulse Analyzer](https://docs.google.com/spreadsheets/d/e/2PACX-1vSeVZcMuB6FT_MAb-_C3LvgXGhWGCKH1kJEeidvWgYcWAsKVwVtiH7bJP_gnZPNf9nejZ1CPy59tPPI/pubhtml#)
 

@@ -1,3 +1,9 @@
+Who Should Read "BITCOIN: BUY - SELL - HODL"? - The Best Companion Book for the TradingView Indicator.
+
+<img src="https://raw.githubusercontent.com/geopayme/CryptoPulseAnalyzer/main/images/Amazon-Book.jpg" alt="image" width="30%" height="auto">
+
+[Buy On Amazon](https://www.amazon.com/dp/B0CT89X2Z2)
+
 # CryptoPulse: The Tri-Spectrum Analyzer
 
 CryptoPulse: The Tri-Spectrum Analyzer The name reflects the multifaceted nature of our tool, combining [Weight Analysis](https://github.com/geopayme/CryptoPulseAnalyzer/wiki/Weighted-Moving-Average), Custom Oscillator Trend, and [Utility Theorem](https://github.com/geopayme/CryptoPulseAnalyzer/wiki/Making-Choices-in-the-Face-of-Uncertainty:-An-Exploration-of-Expected-Utility-Theory) into a comprehensive package for crypto market analysis.

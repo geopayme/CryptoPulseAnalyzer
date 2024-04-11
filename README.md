@@ -8,7 +8,7 @@ Google Sheets Live Link [Crypto Pulse Analyzer](https://docs.google.com/spreadsh
 
 # CruptoPulse: Fear and Greed Indicator
 
-The "CryptoPulse: Fear and Greed Indicator" is a custom financial market analysis tool designed for TradingView's Pine Script environment. 
+The "[CryptoPulse: Fear and Greed Indicator](https://github.com/geopayme/CryptoPulseAnalyzer/wiki/CryptoPulse-Fear-and-Greed-Score)" is a custom financial market analysis tool designed for TradingView's Pine Script environment. 
 
 [Details](https://github.com/geopayme/CryptoPulseAnalyzer/tree/main/Indicators/fear-n-greed-indicator)
 
